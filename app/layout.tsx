@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     title,
     description,
     images: [image],
-    creator: "@vercel",
+    creator: "@blockchaincoio",
   },
   metadataBase: new URL("https://vercel.pub"),
 };
